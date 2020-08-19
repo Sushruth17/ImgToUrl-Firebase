@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ImgToUrl</string>
+
+    <string-array name="folder_array">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </string-array>
+</resources>
+
+

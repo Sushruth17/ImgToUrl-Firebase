@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "828035140004",
+    "firebase_url": "https://imgtourl.firebaseio.com",
+    "project_id": "imgtourl",
+    "storage_bucket": "imgtourl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828035140004:android:fedb866fcee97f3cdad931",
+        "android_client_info": {
+          "package_name": "com.example.imgtourl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828035140004-rour4tl5m5finpk3f58u7bmha4nvra7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_XTqZls9VB8S3Ju5s8VFfoHzvkFO3grA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828035140004-rour4tl5m5finpk3f58u7bmha4nvra7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
